@@ -1,2 +1,2 @@
 # MClauncher
-v1.0
+I use it because it has an .appx file
