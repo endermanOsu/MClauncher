@@ -1,0 +1,255 @@
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d4b5b4e-ed71-4465-9a5f-6e938b3015fb?P1=1635086598&P2=404&P3=2&P4=Vn7rQ%2bvd1Dzm6CLRVxIV01uTuIbLWaUEzhuZe8sdbuyOpb2p2N4eeiFyjDDsrGGBZI02TK69oku38V0NgDtOlg%3d%3d
+Actual download started
+Download failed:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at MCLauncher.VersionDownloader.<DownloadFile>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f3789805-e5d9-4dd6-b914-6407a02a562a?P1=1635614713&P2=404&P3=2&P4=Ejp38sSI19%2bbSRniEVdT%2fsdSLFiXo2xwLe2ksMW25O6VrrJfB6i84Qs3QTIE18b8T2Zzo50hxYw5J0n%2forW0MA%3d%3d
+Actual download started
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f3789805-e5d9-4dd6-b914-6407a02a562a?P1=1635615636&P2=404&P3=2&P4=d2ymhU7rt1uMSluax2En7L8AlW5P3ec991Km9JEdEVvZPFOfiGZ7Sz7HnHeOS6%2bUpTUiyEVXVOLdKWtiQFl7CA%3d%3d
+Actual download started
+Download complete
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f1053b7-f959-4d8f-b492-1f5808abf848?P1=1635752881&P2=404&P3=2&P4=Ga4b6N4UR4AXjRYJKddItDGvieUu0w6MRrTDID7ZRcWjzfQ2xEdA4Ysndob1DUyUCx17LCsp1lsZjlNVN8%2bKhA%3d%3d
+Actual download started
+Download start
+Download failed:
+System.ArgumentException: Bad updateIdentity
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download start
+Download failed:
+System.ArgumentException: Bad updateIdentity
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download start
+Download failed:
+System.ArgumentException: Bad updateIdentity
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8e5563c7-808c-4b72-b4ab-319bd23f25fa?P1=1635745841&P2=404&P3=2&P4=ZZPNoh3p1unyskEsTC9zydIc5ucO0RyIaN1HZsXPuSC0PTFvCMEJ6s5b%2ffko6xwgir4IzoHyO8Z8zfaKpRDR%2fg%3d%3d
+Actual download started
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb2a7627-a305-4e33-bc2d-7570381b1b24?P1=1635745890&P2=404&P3=2&P4=npkMJ661WMzOkacKTtjiO8e%2f65ohyf8NR4smm2FKwsoDoNg7M372UdBzKU16d3aneQ9NMGuMk9enSbwKMCcUfw%3d%3d
+Download failed:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<DownloadFile>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed53bfe9-69b9-4605-a8e4-ca9a0db948ee?P1=1635746056&P2=404&P3=2&P4=nfFQSRF7LbZSbFRqwTgOMLOYAYfjW3tZYr%2ffD9qra1ZhRe8k%2fn1Dl0q6fYh%2bb%2fMfv6L1lJn5S%2bBfku%2f7wOQ2MQ%3d%3d
+Download failed:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<DownloadFile>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/86013ef5-e198-4b92-8bf6-0756d6fd0610?P1=1635746121&P2=404&P3=2&P4=HAuEZjoRp7tt2D6%2flUoHT1%2bW68qlIZUPQ4WnM1f7PcfsE0urHcyfPXw8aklkUD7nK92bBzlQTqAOrzBrfZ5%2bug%3d%3d
+Download failed:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<DownloadFile>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d93ced1f-d5be-45cf-b9f4-2f3f1bd628b1?P1=1635746125&P2=404&P3=2&P4=Bse1VqiKD%2bG%2b%2fVV4sBfgmg4QGqnQ7Jd82z7eoi5rR6IyNePItmRk0YobsuQdqsv8XVCyZ0kMUxwBzWs%2fNA6SIQ%3d%3d
+Download failed:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<DownloadFile>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/91ccacb0-a239-4c95-8cc0-33756f9e6a1f?P1=1635746471&P2=404&P3=2&P4=mDAKnKZsqxfkCHmG4RFCqhzal%2fmVjfvJ7hClftglJNiyY5%2b9l5GpSZWFVjf4pPa348RS%2fNeuNuO%2fO4OVMb4cZA%3d%3d
+Download failed:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<DownloadFile>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3e897385-fe3a-4986-bb47-17db870dcb49?P1=1635746437&P2=404&P3=2&P4=BZw6H28DmlSoU2RPO%2bcwguftFqT9%2fZ7VkEFoPSqpv82VYwpbaNV08DurBCvfGpAyRL49aXkhnYcXc%2fV6hemGhQ%3d%3d
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fbc319e1-584d-4982-89f1-30f255e0b27a?P1=1635746439&P2=404&P3=2&P4=jaEOOCCEZ1wV%2fjJlrzY2pcUspYQGXOOKhWjHkCVHl2hFcKc%2fsinLDfPSUzOuMSrUIiWE2NkKaWwDjnyOPzaANg%3d%3d
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/92e1bf15-ba9e-4a7e-a94b-16f150b4d605?P1=1635746840&P2=404&P3=2&P4=KF%2fvYOjRlMz8TstacaaGpsZG6zbALXOhZbwxR3ajQ794Po3xc0G%2bOpOJ6UI%2bs9f%2bPdXb3obZkpc7r4F2aNOOhQ%3d%3d
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/af683b1b-4f20-4325-a5e2-53117d7670d3?P1=1635746841&P2=404&P3=2&P4=QtOQjCkWYbse8ZUC6T1jxpYf8YC%2f6BaGDC80K5happs%2bDmWb9CU1QijgAis2iW0pq2d2NudtYYNNeTUZry3Zhg%3d%3d
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c51cefe9-0575-4d83-8627-0088de613574?P1=1635746842&P2=404&P3=2&P4=ByjcoQCA1jlkpD7CqB8wfBLVj0pxFv08705dx8%2fzsIdXIxKQaBHW3xyEEQXU7pKB7m170Rwv9KJyZ1dpBD1ntA%3d%3d
+Download failed:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<DownloadFile>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download failed:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<DownloadFile>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download failed:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<DownloadFile>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download failed:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<DownloadFile>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download failed:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<DownloadFile>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.VersionDownloader.<Download>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass21_0.<<InvokeDownload>b__1>d.MoveNext()
+Download start
+Download complete
+Download complete
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c453b442-207c-4319-b652-a18c72f2e342?P1=1637043002&P2=404&P3=2&P4=iyHesBjkLIr2JWu5vdR6tG1A64Cm33RUBqUizLu4kuArYsMfJaPAwTJRzCzZ05qBEaOw%2bBQ%2bejVUzrFWWMlg8A%3d%3d
+Actual download started
+Download complete
+Download start
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/74e3c3eb-a134-48be-bbbc-4b0e70c8c556?P1=1638546424&P2=404&P3=2&P4=ZQa0FS6Vapdbzq5Bags%2fwxgTsjg9RWcGzp2Q1bA2qFX63aey0sHfrIbG6oJf1hTBXoFZUt3qeH7kojSCxk34jg%3d%3d
+Actual download started
+Download complete
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c453b442-207c-4319-b652-a18c72f2e342?P1=1638592368&P2=404&P3=2&P4=fl85LUEgE1A2BuyHbhZ7o12MlIuEQADu8T%2bLyPS2EJSXXjbRr0N9Eau24zVDRdbsjSgoy23N0Ge4E5Ty15%2b4oQ%3d%3d
+Actual download started
+Download complete
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/74e3c3eb-a134-48be-bbbc-4b0e70c8c556?P1=1638596340&P2=404&P3=2&P4=aaVIwwtPCPnUJjGHXIv9R2azzhLH6aRJpOz6E1Npi5C4H37%2fBgEH7ipzcqaShvEx6phjbNI%2f1s3NCzfWSFrCfQ%3d%3d
+Actual download started
+Download complete
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/30df7774-7afd-404d-b0c0-f1635cb8d0b3?P1=1643910164&P2=404&P3=2&P4=f93r4ARae%2bsVPl1fGrkS9Ypo%2fkNHKEVO6b4vZXwjvugTcDgJHEiwLqAERodNjMl6%2bR%2bMct18gSkaVwIPTTE73A%3d%3d
+Actual download started
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6806dcac-af62-4907-b4a7-020cb7811f5b?P1=1644814326&P2=404&P3=2&P4=W%2bU2c1pLVoi%2brs%2fqO8IBSrl7PUgGg3eyeQUeFYMrVxYc6DOkyjIzwQoPPl6UueiAScITQlMRq03USnNVSiNIPA%3d%3d
+Actual download started
+Download complete
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/30df7774-7afd-404d-b0c0-f1635cb8d0b3?P1=1644815842&P2=404&P3=2&P4=CBQBj9xNB1X0B1MNHWZmdkEco6%2fkb5hTiZiBP88ALCI%2fiZuaSHbll188cv3SPzYxUegMN6iyKRw%2b0%2faZiO1WaQ%3d%3d
+Actual download started
+Download complete
